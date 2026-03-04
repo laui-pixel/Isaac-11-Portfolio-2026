@@ -54,6 +54,8 @@
     background-color: #515050;
     border-radius: 19px;
     margin-left: 28px;
+    place-items: center;
+    display:grid;
      
 }
 .text_in_box{
@@ -67,7 +69,7 @@
     border-radius: 19px;
     height: 300px;
     width: fit-content;
-    margin-left: 30%;
+  
 }
 .project1-button{
     background-color: grey;
@@ -80,7 +82,6 @@
     box-shadow:  0 4px 6px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     margin-top: 10px;
-    margin-left: 46% ;
 }
 .project1-button:hover{
     background-color: #5c5c5c;
@@ -98,7 +99,7 @@
     box-shadow:  0 4px 6px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     margin-top: 10px;
-    margin-left: 46% ;
+    
 }
 .project2-button:hover{
     background-color: #5c5c5c;
@@ -116,7 +117,7 @@
     box-shadow:  0 4px 6px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     margin-top: 10px;
-    margin-left: 46% ;
+   
 }
 .project3-button:hover{
     background-color: #5c5c5c;
